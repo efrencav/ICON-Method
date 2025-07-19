@@ -1644,6 +1644,7 @@ input {
 .fifth-bg {
   background-color: #f7f7f7 !important;
 }
+
 .ebook-cta-area {
   background-color: #000000 !important;
 }
@@ -2280,7 +2281,7 @@ input {
 
 .logo {
   display: block;
-  width: 179px;
+  width: 340px;
 }
 
 .logo img {
